@@ -1,0 +1,20 @@
+{
+  "Customers": [
+    {
+      "id": "1",
+      "name": "john john",
+      "email": "jdoe@google.com"
+    },
+    {
+      "id": "3",
+      "name": "mcpear son",
+      "email": "mcpearceg@google.com"
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@harry.harry",
+      "age": 45,
+      "id": "0nRxteh"
+    }
+  ]
+}
